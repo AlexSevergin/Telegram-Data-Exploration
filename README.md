@@ -5,7 +5,8 @@ Graph_1.png and Graph_2.png are the photos of graphs that aren't shown on GitHub
 # Firstly, you have to download the data and get your credentials.
 1. Install dependencies: pip install -r requirements.txt
 2. Get your credentials https://my.telegram.org/apps
-3. Set credentials in config/config.json
+3. Set credentials (api_id, api_hash) in config/config.json (should be based on the
+config_example.json)
 4. Download '0_download_dialogs_list.py' and '1_download_dialogs_data.py'
 5. Download dialogues data python 1_download_dialogs_data.py --dialogs_ids -1 --dialog_msg_limit 100000 // message limit is 100000
 6. Download all dialogues python 0_download_dialogs_list.py --dialogs_limit -1 
