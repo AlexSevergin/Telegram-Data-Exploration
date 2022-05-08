@@ -22,7 +22,7 @@ This are the tools I've used in py analysis:
 6. from nltk.corpus import stopwords
 7. import plotly.express as px
 
-#Thridly, just create the questions and try to solve them!
+# Thridly, just create the questions and try to solve them!
 You can analyze nearly everything:
 1. Which types of chats you have?
 2. Where you are the most active?
