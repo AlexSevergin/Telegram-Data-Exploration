@@ -38,7 +38,7 @@ You can analyze nearly everything:
 12. Word you/your interlocutors use the most?
 13. Types of messages you send/receive the most? (exclamatory/question/affirmative sentences)
 
-Those were only exampels what you can analyze, just use your imagination and try to solve the question that came to your haead!
+Those were only exampels what you can analyze, just use your imagination and try to solve the question that came to your head!
 
 # Moreover, after you did some exploration try to think what you can improve.
 As for me, I'd like to improve analysis of users by gender, analysis of the most popular topics and analysis of messages by different parameters, for instance, by topics.
