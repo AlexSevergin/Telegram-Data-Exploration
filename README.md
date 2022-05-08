@@ -1,6 +1,6 @@
 # Telegram-Data-Exploration
 This repository contains all the data from my CSS project about theTelegram data, in which I've downloaded messages from different chats and analyzed it. 
-Graph_1.png and Graph_2.png are the photos og fraphs that aren't shown on GitHub, ukrainian, russian, enslish and symbols are the files with stopwords for analyzing words. 
+Graph_1.png and Graph_2.png are the photos of graphs that aren't shown on GitHub, ukrainian, russian, enslish and symbols are the files with stopwords for analyzing words. 
 
 # Firstly, you have to download the data and get your credentials.
 1. Install dependencies: pip install -r requirements.txt
